@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nsikan Yakmfiok Essien</h1>
-<h3 align="center">A passionate machine learning from Nigeria</h3>
+<h3 align="center">A passionate machine learning engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ny-essien&label=Profile%20views&color=0e75b6&style=flat" alt="ny-essien" /> </p>
 
